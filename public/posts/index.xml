@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on SoftwareEngineering.Flush</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on SoftwareEngineering.Flush</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Dec 2025 19:09:50 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>http://localhost:1313/posts/hello/</link>
+      <pubDate>Tue, 16 Dec 2025 19:09:50 +0200</pubDate>
+      <guid>http://localhost:1313/posts/hello/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
