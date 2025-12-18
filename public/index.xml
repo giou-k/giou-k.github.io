@@ -13,14 +13,14 @@
       <link>http://localhost:1313/posts/hello/</link>
       <pubDate>Tue, 16 Dec 2025 19:09:50 +0200</pubDate>
       <guid>http://localhost:1313/posts/hello/</guid>
-      <description></description>
+      <description>&lt;p&gt;LALALA&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;hi-im-giou&#34;&gt;Hi, I&amp;rsquo;m &lt;strong&gt;Giou&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Software Engineer with 8 years of experience, interested mainly in Go, System Design and Blockchain.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Go / Kubernetes&lt;/li&gt;&#xA;&lt;li&gt;Rust / Solana&lt;/li&gt;&#xA;&lt;li&gt;Systems &amp;amp; backend&lt;/li&gt;&#xA;&lt;li&gt;Postgresql, Firestore&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;working-on&#34;&gt;Working on&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Notification System using Go, Google Cloud Platform.&lt;/li&gt;&#xA;&lt;li&gt;Risk Mitigation for Liquidity Provision on Orca CLAMM, Solana.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;find-me-on&#34;&gt;Find me on&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/giou-k&#34;&gt;https://github.com/giou-k&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/konstantinos-georgiou-giou/&#34;&gt;https://www.linkedin.com/in/konstantinos-georgiou-giou/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h1 id=&#34;hi-im-giou&#34;&gt;Hi, I&amp;rsquo;m &lt;strong&gt;Giou&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Software Engineer with 8 years of experience, interested mainly in Go, System Design and Blockchain.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Go / K8s / GCP&lt;/li&gt;&#xA;&lt;li&gt;Rust / Solana&lt;/li&gt;&#xA;&lt;li&gt;System Design &amp;amp; Back end&lt;/li&gt;&#xA;&lt;li&gt;Postgresql, Firestore&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;working-on&#34;&gt;Working on&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Notification System using Go, Google Cloud Platform.&lt;/li&gt;&#xA;&lt;li&gt;Risk Mitigation for Liquidity Provision on Orca CLAMM, Solana.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;find-me-on&#34;&gt;Find me on&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/giou-k&#34;&gt;https://github.com/giou-k&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/konstantinos-georgiou-giou/&#34;&gt;https://www.linkedin.com/in/konstantinos-georgiou-giou/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

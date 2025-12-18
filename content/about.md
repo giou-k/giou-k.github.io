@@ -5,15 +5,16 @@ date: 2025-12-16
 tags: ["me"]
 featured: true  # Highlights the post
 mood: "welcome"    # Adds a mood badge
+draft: false
 ---
 
 # Hi, I'm **Giou**
 
 Software Engineer with 8 years of experience, interested mainly in Go, System Design and Blockchain.
 
-- Go / Kubernetes
+- Go / K8s / GCP
 - Rust / Solana
-- Systems & backend
+- System Design & Back end
 - Postgresql, Firestore
 
 ## Working on
