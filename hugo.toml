@@ -2,17 +2,15 @@ baseURL = "https://giou-k.github.io/"
 languageCode = 'en-us'
 title = 'SoftwareEngineering.Flush'
 
-
 theme = "loficode"
 
 [params]
-description = "WWWrite to Remember"
 tagline = "Write to Remember"
 
 # Author section
 [params.author]
 name = "Konstantinos Georgiou"
-image = "/images/WhatsApp Image 2025-12-16 at 19.25.50.jpeg"
+image = "/images/giou.jpeg"
 
 # Social links - Supported platforms: github, twitter, linkedin, email, mastodon, youtube, instagram, facebook
 [params.social]

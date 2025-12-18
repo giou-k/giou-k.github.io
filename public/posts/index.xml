@@ -6,14 +6,14 @@
     <description>Recent content in Posts on SoftwareEngineering.Flush</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Dec 2025 21:14:38 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello</title>
+      <title>Introduction</title>
       <link>http://localhost:1313/posts/hello/</link>
-      <pubDate>Thu, 18 Dec 2025 21:14:38 +0200</pubDate>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/hello/</guid>
-      <description>&lt;p&gt;Hello 👋&lt;/p&gt;&#xA;&lt;p&gt;Welcome to my blog.&lt;/p&gt;&#xA;&lt;p&gt;You can play some background music at the bottom while you go around my work and thoughts.&lt;/p&gt;&#xA;&lt;p&gt;You could use the search bar or the tags to find what you&amp;rsquo;re looking for.&lt;/p&gt;&#xA;&lt;p&gt;Enjoy.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hello 👋&lt;/p&gt;&#xA;&lt;p&gt;Welcome to my blog.&lt;/p&gt;&#xA;&lt;p&gt;You can play some background music at the bottom while you explore my work and thoughts.&lt;/p&gt;&#xA;&lt;p&gt;You can use the search bar or the tags to find what you&amp;rsquo;re looking for.&lt;/p&gt;&#xA;&lt;p&gt;The goal of this blog is to share my knowledge on Software Engineering subjects and learn even more while doing so.&lt;/p&gt;&#xA;&lt;p&gt;Everything here will reference sources so that you can go deeper if you want to.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
