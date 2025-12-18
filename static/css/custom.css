@@ -1,0 +1,45 @@
+/* Custom styles - blur profile photo and show name */
+.profile-photo {
+    filter: blur(1.5px);
+}
+
+.profile-photo:hover {
+    filter: blur(0.5px);
+    transform: scale(1.05);
+}
+
+.profile-photo-container::after {
+    content: 'Konstantinos Georgiou';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 3;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    text-align: center;
+    text-shadow:
+        0 0 10px rgba(255, 255, 255, 0.9),
+        0 0 20px rgba(255, 255, 255, 0.7),
+        2px 2px 4px rgba(0, 0, 0, 0.3);
+    pointer-events: none;
+    white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+    .profile-photo {
+        width: 80px !important;
+        height: 80px !important;
+    }
+
+    .profile-photo-container::before {
+        width: 86px !important;
+        height: 86px !important;
+    }
+
+    .profile-photo-container::after {
+        font-size: 0.7rem;
+    }
+}
+
