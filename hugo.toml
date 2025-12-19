@@ -4,6 +4,11 @@ title = 'SoftwareEngineering.Flush'
 
 theme = "loficode"
 
+# Cache configuration for GitHub Actions
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
 tagline = "Write to Remember"
 
