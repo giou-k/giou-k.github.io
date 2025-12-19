@@ -13,7 +13,7 @@ draft: false
 Software Engineer with 8 years of experience, interested mainly in Go, System Design and Blockchain.
 
 - Go / K8s / GCP
-- Rust / Solana
+- Rust / Solana / DeFi
 - System Design & Back end
 - Postgresql, Firestore
 
