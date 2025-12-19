@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+        - 'themes/**'
   workflow_dispatch:
 permissions:
   contents: read
