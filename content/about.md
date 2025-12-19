@@ -30,5 +30,4 @@ Software Engineer with 8 years of experience, interested mainly in Go, System De
 - Nutrition
 - Economics
 - Sports but mainly Boxing. Takes most my remaining energy after work 😵‍💫. 
-- Music (Jazz, Classic, House, Techno, Electro, Hiphop, and more) ♬♪
-- Good life... 😝 nightlife, traveling  
+- Music (Jazz, Classic, House, Techno, Electro, Hiphop, and more) ♬♪ 
