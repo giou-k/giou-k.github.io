@@ -19,7 +19,7 @@ Software Engineer with 8 years of experience, interested mainly in Go, System De
 
 ## Working on
 - Notification System using Go, Google Cloud Platform.
-- Risk Mitigation for Liquidity Provision on Orca CLAMM, Solana.
+- Risk Mitigation for Liquidity Provision on Orca CLMM, Solana.
 
 ## Find me on
 - GitHub: https://github.com/giou-k
