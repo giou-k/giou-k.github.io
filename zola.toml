@@ -1,0 +1,30 @@
+theme = "apollo"
+taxonomies = [{ name = "tags" }]
+
+[extra]
+theme = "auto"
+socials = [
+    # Configure socials here
+]
+menu = [
+    # Configure menu bar here
+]
+
+# See this for more options: https://github.com/not-matthias/apollo/blob/main/config.toml#L14
+
+# The URL the site will be built for
+base_url = "https://giou-k.github.io"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+[markdown]
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+[extra]
+# Put all your custom variables here
