@@ -1,6 +1,7 @@
 +++
 title = "Introduction"
 date = "2026-09-10"
+description = "Welcome to the blog: curated posts and personal notes on Software Engineering."
 
 [taxonomies]
 tags = ["me"]

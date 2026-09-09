@@ -2,6 +2,7 @@
 title = "About"
 path = "about"
 date = "2026-09-10"
+description = "Software Engineer with 9 years of experience in Go, System Design and Blockchain."
 
 [taxonomies]
 tags = ["me"]

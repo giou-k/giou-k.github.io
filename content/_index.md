@@ -1,5 +1,6 @@
 +++
 template = "homepage.html"
+description = "Curated posts, braindumps and projects on Go, System Design and Blockchain, by Giou."
 +++
 
 # Hi, I'm Giou

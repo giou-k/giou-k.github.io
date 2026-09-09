@@ -1,6 +1,7 @@
 +++
 title = "Observability made easy: Serverless and Datadog Orchestrion"
 date = "2026-09-10"
+description = "How to get automatic tracing instrumentation in Go using Datadog Orchestrion, with a serverless in-process agent setup."
 
 [taxonomies]
 tags = ["Golang", "Observability", "Datadog"]
