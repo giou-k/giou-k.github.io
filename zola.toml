@@ -39,3 +39,9 @@ menu = [
     { name = "/about", url = "/about", weight = 3 },
     { name = "/tags", url = "/tags", weight = 4 },
 ]
+
+[extra.analytics]
+enabled = true
+
+[extra.analytics.goatcounter]
+user = "giou-k"
